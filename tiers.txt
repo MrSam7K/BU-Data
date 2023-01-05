@@ -11,3 +11,5 @@
 "Eminence ☀","Eminence ☀☀","Eminence ☀☀☀","Eminence ☀☀☀☀","Eminence ☀☀☀☀☀",
 "Divinity ☁","Divinity ☁☁","Divinity ☁☁☁","Divinity ☁☁☁☁","Divinity ☁☁☁☁☁",
 "Ultimate ✪","Ultimate ✪✪","Ultimate ✪✪✪","Ultimate ✪✪✪✪","Ultimate ✪✪✪✪✪"
+-
+Ultimate ✪✪✪✪✪
