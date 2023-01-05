@@ -6,10 +6,12 @@ Ruby I,Ruby II,Ruby III,Ruby IV,Ruby V,
 Jr. Bunny I,Jr. Bunny II,Jr. Bunny III,Jr. Bunny IV,Jr. Bunny V,
 Bunny I,Bunny II,Bunny III,Bunny IV,Bunny V,
 Master ⭐,Master ⭐⭐,Master ⭐⭐⭐,Master ⭐⭐⭐⭐,Master ⭐⭐⭐⭐⭐,
-Titan ⚔,Titan ⚔⚔,Titan ⚔⚔⚔,Titan ⚔⚔⚔⚔,Titan ⚔⚔⚔⚔⚔,
+Titan ⚔t,Titan ⚔⚔,Titan ⚔⚔⚔,Titan ⚔⚔⚔⚔,Titan ⚔⚔⚔⚔⚔,
 Overlord 🔥,Overlord 🔥🔥,Overlord 🔥🔥🔥,Overlord 🔥🔥🔥🔥,Overlord 🔥🔥🔥🔥🔥,
 Eminence ☀,Eminence ☀☀,Eminence ☀☀☀,Eminence ☀☀☀☀,Eminence ☀☀☀☀☀,
 Divinity ☁,Divinity ☁☁,Divinity ☁☁☁,Divinity ☁☁☁☁,Divinity ☁☁☁☁☁,
 Ultimate ✪,Ultimate ✪✪,Ultimate ✪✪✪,Ultimate ✪✪✪✪,Ultimate ✪✪✪✪✪
 -
 Ultimate ✪✪✪✪✪
+-
+test commit
